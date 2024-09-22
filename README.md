@@ -65,6 +65,8 @@ The `data/romania_map.jsonb` file contains the Romanian road map represented as 
     ```
 
 ## Arquitecture project
+
+```bash
 │
 ├── README.md
 ├── data/
@@ -81,6 +83,8 @@ The `data/romania_map.jsonb` file contains the Romanian road map represented as 
 ├── results/
 │   └── ...
 └── requirements.txt
+```
+
 
 ## Results
 Performance comparison of the algorithms can be found in the `results/report.pdf`. 
