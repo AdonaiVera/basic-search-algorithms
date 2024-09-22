@@ -1,0 +1,5 @@
+Algorithm,Path Found,Nodes Expanded,Time Taken (s),Max Fringe Size,Optimal Path
+BFS,True,3,1.4448165893554687e-06,3,True
+DFS,True,2,8.249282836914062e-07,2,True
+Best-First (Heuristic 1),True,2,2.672672271728516e-06,3,True
+A* (Heuristic 1),True,3,3.3783912658691406e-06,3,True
