@@ -64,7 +64,7 @@ The `data/romania_map.jsonb` file contains the Romanian road map represented as 
     python tests/test_experimental_results.py
     ```
 
-## Arquitecture project
+## Architecture project
 
 ```bash
 │
